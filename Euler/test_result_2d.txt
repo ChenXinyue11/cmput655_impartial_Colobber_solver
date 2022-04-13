@@ -1,0 +1,80 @@
+..B.WBW/WBBW..W
+Nimber: 2
+time: 0.0077
+=====================
+.BWW.WB/WW.BBBW
+Nimber: 1
+time: 0.0368
+=====================
+W.B..WW/.WW..WW
+Nimber: 2
+time: 0.0040
+=====================
+.BWBB.B/BW..WWB
+Nimber: 4
+time: 0.2758
+=====================
+.WW.B../BB..BWW
+Nimber: 0
+time: 0.0040
+=====================
+...WWBB/B.BW.W.
+Nimber: 2
+time: 0.0120
+=====================
+WBWW.W./.B.BBB.
+Nimber: 0
+time: 0.0090
+=====================
+B.WWWWB/WWWBBW.
+Nimber: 3
+time: 3.6214
+=====================
+..B...W/.B.BW.W
+Nimber: 1
+time: 0.0020
+=====================
+.WW..B./.B.W.WW
+Nimber: 0
+time: 0.0050
+=====================
+BB.B..B/B....WB
+Nimber: 2
+time: 0.0050
+=====================
+WB.W.WW/BWBWWW.
+Nimber: 0
+time: 0.0070
+=====================
+W.BW.WW/....BBB
+Nimber: 1
+time: 0.0051
+=====================
+WW.BB.B/.B.BW..
+Nimber: 3
+time: 0.0090
+=====================
+B.B.WB./BW.BBBW
+Nimber: 2
+time: 0.0110
+=====================
+WW..BBW/B.B..BW
+Nimber: 2
+time: 0.0065
+=====================
+B.BBBB./..W..WB
+Nimber: 0
+time: 0.0076
+=====================
+BBBW.BW/.BB...B
+Nimber: 0
+time: 0.0060
+=====================
+......B/WW..BWW
+Nimber: 0
+time: 0.0040
+=====================
+.B.B.BW/.B.B..W
+Nimber: 2
+time: 0.0090
+=====================
